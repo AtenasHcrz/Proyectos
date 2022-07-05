@@ -3,3 +3,7 @@ function sumar(a,b) {
     return resultado
 }
 
+function sumar(a,b){
+    return a + b;
+
+}
